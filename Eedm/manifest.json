@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "/var/lib/jenkins/workspace/EthosDataModel/EISDK-Object-Generation-Pipeline/3-generate-csharp-objects/devexp-object-generator-eicsdk/EllucianGeneratedEedm",
+  "source_base_path": "/var/lib/jenkins/workspace/EthosDataModel/EISDK-Object-Generation-and-Publication-Pipeline/3-generate-and-publish-csharp-objects/devexp-object-generator-eicsdk/EllucianGeneratedEedm",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
