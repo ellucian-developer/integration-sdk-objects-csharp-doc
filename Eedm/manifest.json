@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "/var/lib/jenkins/workspace/EthosDataModel/EISDK-Object-Generation-and-Publication-Pipeline/3-generate-and-publish-csharp-objects/devexp-object-generator-eicsdk/EllucianGeneratedEedm",
+  "source_base_path": "/var/lib/jenkins/workspace/EthosDataModel/EISDK-Object-Generation-and-Publication-Pipeline/4-Generate-CSharp-Objects/devexp-object-generator-eicsdk/EllucianGeneratedEedm",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -3953,6 +3953,954 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountDetails.html",
+          "hash": "lHz0rjal5b1TQY8pRVw38+kuaviCa58msXvz77c+N4Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountsPayableInvoices_V11_3_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountsPayableInvoices_V11_3_0.html",
+          "hash": "AzyVK6siDjGz9mkEz0B1EkUXrqCc4Q0at0w0D9vbM7c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountsPayableInvoices_V11_3_0PaymentStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountsPayableInvoices_V11_3_0PaymentStatus.html",
+          "hash": "pRN69trSXMgM9kAn7P9InHskVBNbNMcTG3DMtKLNglA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountsPayableInvoices_V11_3_0ProcessState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AccountsPayableInvoices_V11_3_0ProcessState.html",
+          "hash": "Rlav4qca4Djyq88ljihdhvSUTQ3ZKOOrShJ2dJEwnbE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmount.html",
+          "hash": "ZVTQ9cc+k/XrV1xpqm+KCNi7S/ZdDhjz1UkXzg1nABo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmount2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmount2.html",
+          "hash": "QLtLgkuSZHzVpDbw3PHoUaWIns/cn3v9LrM56V1pRLI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmount2Currency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmount2Currency.html",
+          "hash": "TLTljiGar56dlMsMZNR2NnvBuQ00LZ7HMpzIC0jaegI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmountCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AdditionalAmountCurrency.html",
+          "hash": "kbrmSR9OPDTBAjwU6+KSuBesIqKOkBQwBodZ63vQNho="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Allocated.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Allocated.html",
+          "hash": "XsILxbWeoTc2Y2nRIT7zSPhUYWHxsrk8cnUyN9LzoHE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Allocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Allocation.html",
+          "hash": "5/+gp+qK6Zr/Oh4mNcE561VxhqgbHsx8Oaz3sNDNy90="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AlternativeVendorAddress.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AlternativeVendorAddress.html",
+          "hash": "BVC2O702Pi9G/xYe6s9q4EaP7NDIBpxeS7UJrI049pk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount.html",
+          "hash": "OSjWIECCYFHf9T3RPns4ir3s/oNJFPyaClll+pG7uSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount2.html",
+          "hash": "WDk7P4QVRPEHsfE0m0sRspbTg3t0etU6sAwl6djI72Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount2Currency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount2Currency.html",
+          "hash": "Q2IpTYkr8CM9p4Cl8/nSB7MGB4pWKjDcVvUkZ3kJ6+0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount3.html",
+          "hash": "Rr87sUi9jY0LK6k/A4toBCTB63sDYFIccJg7NxlCwWs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount3Currency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Amount3Currency.html",
+          "hash": "omokQxhsIvr2NxLMBBZYg5jxZaqptVL/vI+nkWBTGy4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AmountCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.AmountCurrency.html",
+          "hash": "SczeQwpGp44FPE0yEcaMcfjRdbPb9O4IeuouvkN3gbw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.BudgetCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.BudgetCheck.html",
+          "hash": "OGaujn4z3SsvAZB77J3OjBfBB9PCw+rMgfF5iu6OKTg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.CommodityCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.CommodityCode.html",
+          "hash": "UnrKIFi1ai2JrnXpxSc7jxrfYqQ4i0GOxvFwxrUkwgg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Contact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Contact.html",
+          "hash": "fjtAKvoLZrFuClXGzyLRt46en/aF+HRtpKkwvVr2PQc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Country.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Country.html",
+          "hash": "64s+/d5CXnhay/aQ8SUsMhmCMrYRXdKTDp1wdTFrLCE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Country2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Country2.html",
+          "hash": "GpMAKeHXi/Cb6LbnQC0vdDJiDEIINFDRi4BoGbzCzIY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Country2Code.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Country2Code.html",
+          "hash": "JSCkEAauDO8FptQp2ewnRf+LFPoVmrBffTL7aiuZWYc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.CountryCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.CountryCode.html",
+          "hash": "d0fFxqtMaNzAWJB1Ze1QKTGWhTHlz7IxO/rsDp7hLB0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.CountryTransactionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.CountryTransactionType.html",
+          "hash": "jW0GHaukvm4BxlvpR5D1c+C8okjLH7sr/4LQK/gB4q8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DateFormatConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DateFormatConverter.html",
+          "hash": "+zyCNgqYL0mncK+p1o8+DZishBtuJJwBDkWBrJgpM0I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DirectDepositOverride.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DirectDepositOverride.html",
+          "hash": "7Vn97nYQKR27zCMpznNDAj4XPnd6Qn0/XxdF+Doi1f4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Discount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Discount.html",
+          "hash": "QKIp7JOarw7rjVCh+uYd9oih8iVZ7UMGOKf67kgfDNA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DiscountAmount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DiscountAmount.html",
+          "hash": "sQ0PuCbnAhQ1wc4s4mcNjRfS6e3jsZ/Gap6PtztNis4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DiscountAmountCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.DiscountAmountCurrency.html",
+          "hash": "3R2FhuIyppDvEIAyor4qdNXEUGBc/1PtOSa5nPS+7ks="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.EncumbranceStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.EncumbranceStatus.html",
+          "hash": "y/7aMaFgDx79foGVGfeu2PUXr8hYKv6jXOPYWrq5Z4I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.ExistingVendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.ExistingVendor.html",
+          "hash": "DjLfyYazq+ax+0vwDRlDjcFMZJEfAH5/9YRojS9so/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.FixedAssetDesignation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.FixedAssetDesignation.html",
+          "hash": "6NIQumkldv+IeZkkqGUEZedcqEZ5XsoHLUiGTpcUkRQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.GovernmentReporting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.GovernmentReporting.html",
+          "hash": "gvM2/4BGlQpsppF94fPNM9eckI4RLZ76KKbP+8vATnQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.InvoiceDiscountAmount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.InvoiceDiscountAmount.html",
+          "hash": "PHTzVrS4O7IzWbEBxXlR1shWbmKZ3yAFHC7U7vHJGpA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.InvoiceDiscountAmountCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.InvoiceDiscountAmountCurrency.html",
+          "hash": "cgwlU7kzswOV6LOHVRlMjZuvJOt5lR8x1w79MR7rNg0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.InvoiceType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.InvoiceType.html",
+          "hash": "IziRue+2Zl1FWD05JGdM9el8R0XyVpjV2h/Cps40YK0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.LineItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.LineItems.html",
+          "hash": "OoCGAFxcBGUDf7OGGvztpOzhDDvfJiRWlS/LtS778jo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.LineItemsPaymentStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.LineItemsPaymentStatus.html",
+          "hash": "SLIwHdY8g+SzNEscS20ngXm+lw08BbddOJ23Xt74KWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.LineItemsStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.LineItemsStatus.html",
+          "hash": "r9qETy0lSipDA+D2qXtoxVZ4cCuJQUOFQhKLMZ8Rhrw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.ManualVendorDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.ManualVendorDetails.html",
+          "hash": "bhw1uimPaKswM0sa5Ry6zO41g3cjOAaLAbef7r9CyHA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Payment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Payment.html",
+          "hash": "asB/N4p5rLBaE7jVv4CL3jSf1VrifWJwOS2JAvVbqU0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.PaymentTerms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.PaymentTerms.html",
+          "hash": "xrCiYBSqm+DeA34XdAG8t3jtIInGEpbuuTbU+t0sItI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Place.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Place.html",
+          "hash": "kf1Ihn5PxYoXvPO/5vhQSBNveRCbw8Gyal336fg3n3s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.PostalTitle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.PostalTitle.html",
+          "hash": "/zhy2sbi38i1fhp1EBMvuUEwrte/csFSTCEJ8U6/LVg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.PurchaseOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.PurchaseOrder.html",
+          "hash": "hYfDV7cJ49oR16xJPOqDf305MNkbnN+Czu8Njmh8sr8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Rate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Rate.html",
+          "hash": "ZgtTLje4F97rYWsQ2V0s8BxMYFTOn7r4aC7zk4xr4Fs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.ReferenceDocument.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.ReferenceDocument.html",
+          "hash": "A+re/7ToPg+uldNFUlHixckCeLtwMaRbwhJuCmsfuts="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Region.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Region.html",
+          "hash": "hsKTS3cFCr8aFpwB1QO550A8EkLq0HUa4ITame0GGAs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.RegionCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.RegionCode.html",
+          "hash": "5nWCiQ2CUcNWcq/hIlO9WPUmCaJCV3nuEibmmHXUerw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Source.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Source.html",
+          "hash": "sO55Ygh6mdfJDNSQWZQrx+jCyTWnH0BolL23z5CWHts="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Source2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Source2.html",
+          "hash": "FLI7+4thD0ndB4AQNkZROya0yPHpErFnf9MAcXcrWXs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.SubRegion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.SubRegion.html",
+          "hash": "qIIPsRkwvDMnVFWgyOXKM/vk81dg3hPjfbR7TAy9uzY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.SubmittedBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.SubmittedBy.html",
+          "hash": "WQxuMU8Yti1XOp003i/VIlVDXurJQs2+lgUo0zSORKE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.SubmittedBy2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.SubmittedBy2.html",
+          "hash": "AfU71Sz5HsamzNsxD7CL5HivVRWv+9TMgrgWDp/GAj0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxAmount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxAmount.html",
+          "hash": "SRXHs9Wquvw+5FmlE1YHTqNyXDWWn92CVDMio4r+4wo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxAmountCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxAmountCurrency.html",
+          "hash": "VaQYaP62ts1+rIqDkfM0/zSMez+IWiqZXPCOqcG4ocM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxCode.html",
+          "hash": "l+DKDk8PXL/sV/xo+1BM2y/4Cv+OgbXmtP4Mvjhhotg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxCode2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxCode2.html",
+          "hash": "RC7NUseLj5YJJJ3cFc0x5p5GOFbJltwqXqvgQKBfYuw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxCodeRates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxCodeRates.html",
+          "hash": "YwgrSkIxJMngrcz/7FQlJBYqDR7UkpVWyPY2KH0BVqk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxFormComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.TaxFormComponent.html",
+          "hash": "zhKxyj4YRT5ak28PAsrVNScKdkO2UpAewryj+XBSIuM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Taxes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Taxes.html",
+          "hash": "9Ef8WIGv1v00Ui1m16vGkA9qw3dBKOCWCr1iS6TJVHk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Taxes2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Taxes2.html",
+          "hash": "9cMFy3f5Tx1hiH2l9cIXQzSDyyJqSAUZSW5mKv/OuZo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Type.html",
+          "hash": "9HHjATttOnknDQR8XXkX2XL76+6bnUCklZJ9OIrO64w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Type2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Type2.html",
+          "hash": "+0eXmltza6tWleOLgZQM504w5eDL8bAKfYuQ3exkor0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.UnitOfMeasure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.UnitOfMeasure.html",
+          "hash": "a1aDEKId3AWsgEMyf1lYKS+E1sLtKIwnsvhNo97Ooq8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.UnitPrice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.UnitPrice.html",
+          "hash": "dsWbyKT9g7xNNyeswNRSfSXa8IWU/MZA7FMG7NWgG9w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.UnitPriceCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.UnitPriceCurrency.html",
+          "hash": "sa5R1kR/kR7eq34WQhwl9HCq1ceVmpOXHxi7B/r0/Js="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Vendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Vendor.html",
+          "hash": "9ujkMNls+fPfefivpx8dsr1juyoY+8iI/H3fuYG5LbI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Vendor2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.Vendor2.html",
+          "hash": "kvXWRTSJ+6H1Bk45TdyTyfsJfOT2EIg1pAMEWstZMMI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmount.html",
+          "hash": "5oWs41bh/GuGj0I1VuDZuGFHYmSF93+ELflvAyMmTmg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmount2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmount2.html",
+          "hash": "03nHdu1h9KgHQCxW+MEXSXjkOBk3BqyGkDLAYa3yWX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmount2Currency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmount2Currency.html",
+          "hash": "LV5aa0YY+P20TydnaGquobqrri7jfsw3T4Ue/eDnHZc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmountCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorAmountCurrency.html",
+          "hash": "e/i/MQOUDdxvNhzkOG70i2ZQx7thUN9ZBDQJnKgwYr4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledAmount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledAmount.html",
+          "hash": "wimZI1CqFBN3SR/tgPu3PXxdwFO4wNvVtG8odpoyQkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledAmountCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledAmountCurrency.html",
+          "hash": "QLFe3fiVkckHVDn65dzuwQ03ofwfOs6mk9XYPk2X+ZM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledUnitPrice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledUnitPrice.html",
+          "hash": "E/pEbolMbamyTRBwularO6u+9oknXGoodhDdnpI1Fxk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledUnitPriceCurrency.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.VendorBilledUnitPriceCurrency.html",
+          "hash": "P9boTF6yJvvKIUCd5E4AWSmzzLfWknAdUm0Bduo2AM4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V11_3_0.html",
+          "hash": "AB29wS22EhNeLP5GLk557jKXEp/VsZue9SwCztFP/Og="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Ellucian.Generated.Eedm.AccountsPayableInvoices_V8_0.AccountDetails.yml",
       "output": {
         ".html": {
@@ -4966,6 +5914,126 @@
         ".html": {
           "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_1_0.html",
           "hash": "vg72xQoKcttPy4kE3QwWW3NYdPvIfG+irOwTwN7YwJA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Addresses_V11_2_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Addresses_V11_2_0.html",
+          "hash": "a4cIJfTEJm8twE9c65iiWf8hlI5T3ejZv7lUXLPHkPs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Country.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Country.html",
+          "hash": "UJgJNitY8VZfjFQyVEMLC9e/nfhTYF9pOWXmarHDncI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.CountryCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.CountryCode.html",
+          "hash": "WcPsAfdqSHP05P++Zoe0aRfgQsNucJX3qc+Hj9TP47I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.GeographicAreas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.GeographicAreas.html",
+          "hash": "Bj5iB6kYxV7owrng7T06CCNdqFKbOq4HQIsC5kuxa4A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Place.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Place.html",
+          "hash": "WfwVqYE0Qxta8c+FsRC44iHKpZccYRjK8JDuV5r2VvQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.PostalTitle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.PostalTitle.html",
+          "hash": "3rw7EKqeqRgE2xT/ZG5nt/DWHIucqB2or4xtjTJa+Y4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Region.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.Region.html",
+          "hash": "gcr9eOP6NsoHfkvugD0pyAFlBaspg4H3mXjkh915rBM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.RegionCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.RegionCode.html",
+          "hash": "i0gmMcuVkAnGpk6KR1kNXQtFwNz73uzRd4IIkcb9UJI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.SubRegion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.SubRegion.html",
+          "hash": "O7BUTE1Kym5bddhnfohwKddcXLXP6obsOHQf62gMA+I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.Addresses_V11_2_0.html",
+          "hash": "eaiHFv57iP94GtM0du7T/W3+Pxlc0TvRXW0m/WiQJHI="
         }
       },
       "is_incremental": false,
@@ -32057,6 +33125,114 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.AdmissionDecision.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.AdmissionDecision.html",
+          "hash": "dhKLYJpUE14iPRBE4bS3qe1N+S2B4AYcL9WU3juxjns="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Application.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Application.html",
+          "hash": "kWLJU+Bf5cZgaDZIAEPiKOsawc6nDtMYA+dbH9NhBlI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.CourseInformation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.CourseInformation.html",
+          "hash": "y7bSmnP5M78pkFF7+8EnVwFhn1KPcYWwxXeOuJHygQA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Decision.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Decision.html",
+          "hash": "+LQZJc0Wlt/iS5Mw54wEdVkYOo03/hzM8IBD6VlB07o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.DfeAdmissionDecisions_V1_2_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.DfeAdmissionDecisions_V1_2_0.html",
+          "hash": "tkE66zwZAS9f7rxllPonwKvGrhiBKlDiM/q3hQJTPnY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Id.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Id.html",
+          "hash": "AZgZgUEjzNNNFllyVp9g/suZlI7RtzEOFY63kx6PclY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Interview.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Interview.html",
+          "hash": "JE67aRlUW5BrvsBKXLzYRtqHxrbd10Fs2X+99mNs3+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Representative.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.Representative.html",
+          "hash": "sq+JBHhRpXJBfiit449YiBFNSa8cQxdKQXiSLWoFBzw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeAdmissionDecisions_V1_2_0.html",
+          "hash": "dqDAv4U6CDJRoCfo4JiAifgAUCKQqo01x5jHTpOLxA0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_0_0.Attribute.yml",
       "output": {
         ".html": {
@@ -32530,6 +33706,258 @@
         ".html": {
           "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_1_0.html",
           "hash": "nBJedhz4Ij8XzsC+Rz0jGO9RQpPa7HtzHM8NVg4DM5U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Attribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Attribute.html",
+          "hash": "rL88vnQEkH0aDhrF2wfBEp/U7Cq0GSOmb94Jc00ZiQQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Candidate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Candidate.html",
+          "hash": "USZQ1nFjU5RfNtKREl5oTe6yLK1Q3B7YQ48NhLsG+1E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.ContactDetails.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.ContactDetails.html",
+          "hash": "RWMC8nK2JYXNy0rGHUuJjrlf/gmLnthiXR5uJm0OGdQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Course.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Course.html",
+          "hash": "7Bhq/Jxs82UUnx6RvwpXq9BN38+0sA2fCw7KpL1+ZEM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Course2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Course2.html",
+          "hash": "H7INu8RO38d/fuUZ2JmQzK+Bn7HaheXNWddhyiHSgT0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.DateFormatConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.DateFormatConverter.html",
+          "hash": "D22+5Iyw+4Xt80rq8FBTxrc1Sc8Yfp7J77xZAoscngQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Degrees.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Degrees.html",
+          "hash": "DkbKKq91SIxTAkx7pMawwkQNgNgE4uu87qO5FB5iEqU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.DfeApplicationSubmissionProcess_V1_2_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.DfeApplicationSubmissionProcess_V1_2_0.html",
+          "hash": "20Zz73v9MrFtb0o61SY63UbdZbTm3DtKCgjc22hHAA0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Gcses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Gcses.html",
+          "hash": "pmNyRngr987noGo/+3sX0/69yedxr3l1//kIWpZ8QhI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.HesaIttData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.HesaIttData.html",
+          "hash": "R487Ic1Pk4eA1puPtEAZLLJB7Zh2sbArH51PQ4U2ZSA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Interviews.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Interviews.html",
+          "hash": "u+5S+VY8cLh6WWqZGQOpPDIFOZojnbJmOd8L7rw5/RM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Jobs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Jobs.html",
+          "hash": "rFA6X3Uopd73JPYXRf/uAMpELJY5VGflpj2tEa/lwCk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Offer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Offer.html",
+          "hash": "gs/CNwMjh3t9KKrjbiIhFxM5l8FNk9xfqFh/6PsJ288="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.OtherQualifications.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.OtherQualifications.html",
+          "hash": "wEZ3tqAqwMMWbQgsVhkv+zr/YmiAAg+mWRqoBd+RCtc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Qualification.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Qualification.html",
+          "hash": "ELGU1jJioU7VT+8IB2MVKJr38AeL0z5XKYezFAC4w0A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.References.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.References.html",
+          "hash": "05syShLXECdivjEOp2XCtZebfljZRNp9NkIuZMIjNrg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Rejection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Rejection.html",
+          "hash": "FsXpzV695BdPVBpA8PyDyZ0Us0TufPREzV160fZbLWs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Volunteering.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Volunteering.html",
+          "hash": "3+sVr8/0IycQgJIpIAlDqErsim/6K9ECap0h+drUc+c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Withdrawal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.Withdrawal.html",
+          "hash": "e19YFWk8Rh9cZi4yMJ4wGK2vsryG4jgWyzt8Usb7Jig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.WorkExperience.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.WorkExperience.html",
+          "hash": "lseGADgkLxpPCA/Wf+kIyqVTstCpGAYj1++CnsMH8jw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.DfeApplicationSubmissionProcess_V1_2_0.html",
+          "hash": "tq6tjOTzPVVmoyawAUv/Vgs6Y/5IVg7bPzaM1mFndbk="
         }
       },
       "is_incremental": false,
@@ -33742,6 +35170,66 @@
         ".html": {
           "relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_0_0.html",
           "hash": "0mD8aiwYAGGsfWmwJ3JdFNHftTZKtc3utUJ71y6xdvk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.AdmissionDecision.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.AdmissionDecision.html",
+          "hash": "3LV70FqU/Z/SjceP9a1Tnzu2XT0v1Po4Y2MQu6chK8M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.AdmissionInterview.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.AdmissionInterview.html",
+          "hash": "JkUGytzRLWVgoSqP61Nvwdy4SwTZVzvFL+8xmypPTCw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.html",
+          "hash": "Fh2Bq3N2FphQCQWGdQnIokmW0AHjiHQ4i98Jun8CsKA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0Status.html",
+          "hash": "UiL4XovN6Yyuvp/CkX8wv7qeYBIxLDy+lJLizUnqpYc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Ellucian.Generated.Eedm.ExternalAdmissionsApplicationDecisionStatuses_V1_1_0.html",
+          "hash": "VS0V7cvB1LUXPhTfWnVt8ajvXyPRvvoi2fUVEGcCja8="
         }
       },
       "is_incremental": false,
@@ -67449,7 +68937,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "OdUTDL7qCmSm7mfDUfX80p8H1QNtD/WlSGdulzywOio="
+          "hash": "0c7eopAsHkufwKrfNzGf4JqLcZHL3xN1LoMdpqC7BQs="
         }
       },
       "is_incremental": false,
@@ -67485,7 +68973,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "J2Ucrckdx4dg4IZOx6kwfAACTTn8pqVwhGnYicz3XjE="
+          "hash": "rszpB6j2AyZ2c10uVuBPntiE8GGNgX1Bw7/fXrAsvuc="
         }
       },
       "is_incremental": false,
@@ -67524,7 +69012,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 5619,
+          "total_file_count": 5743,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
