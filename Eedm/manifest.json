@@ -4,6 +4,18 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "CpM0qi8yBq+1nZOolox2XAre1yLDjnSXkJz0Cn9ZvzU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "ManagedReference",
       "source_relative_path": "api/Ellucian.Generated.Eedm.AbbreviationItem.yml",
       "output": {
@@ -68925,7 +68937,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "S6HH25ziEUKWJk9c1SDkf4tv9pt+s1Em+CanR3D4XJQ="
+          "hash": "G02WXkXmlHk1mru6wwTlMIiqbK4ABhPOYJJ745mP8jM="
         }
       },
       "is_incremental": false,
@@ -68945,35 +68957,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/intro.md",
-      "output": {
-        ".html": {
-          "relative_path": "articles/intro.html",
-          "hash": "aOy2sep6UZV26oOkupcIBXuDgHQsCVz7R3i+I6vFl6Y="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "articles/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "rszpB6j2AyZ2c10uVuBPntiE8GGNgX1Bw7/fXrAsvuc="
+          "hash": "oNiFwIJN4BvS4/sHVTsdTsPG+Pl1P9svjWLQEFcFTiI="
         }
       },
       "is_incremental": false,
@@ -68985,7 +68973,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "WSuRrYiGwKKMbtdG9z8W9fXmLoCyTnGg9AxbPKLXm2Y="
+          "hash": "s+UecGKJLe11K3w4+MJjx6QoiqktkO8teeQG06lk8L0="
         }
       },
       "is_incremental": false,
